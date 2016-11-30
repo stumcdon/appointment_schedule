@@ -1,0 +1,40 @@
+/* CSS Class Overrides */
+.jumbotron {
+	margin-top: 40px;
+}
+
+.container {
+	width: 650px;
+}
+
+.hoverable:hover {
+	cursor: pointer;
+}
+
+.modal-dialog {
+	width: 300px;
+}
+
+.input-group {
+	width: 100%;
+}
+
+.modal-footer {
+	text-align: center;
+}
+
+
+
+/* Custom CSS classes */
+.appt-slot {
+	display: block;
+	width: 100%;
+	font-weight: bold;
+}
+
+
+
+/* Specific element CSS rules */
+#name-input {
+	margin-bottom: 10px;
+}

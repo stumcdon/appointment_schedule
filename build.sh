@@ -1,0 +1,1 @@
+browserify -t [babelify] src/app.jsx -o build/app.js
